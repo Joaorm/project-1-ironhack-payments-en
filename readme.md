@@ -31,12 +31,17 @@ Before diving into cohort analysis, conduct an exploratory data analysis to gain
 
 Assess the quality of the dataset by identifying missing values, data inconsistencies, and potential errors. Implement data cleaning and preprocessing steps to ensure the reliability of your analysis. Document any data quality issues encountered and the steps taken to address them.
 
+### Dashboarding
+
+Create a dataset to be imported into Tableau and build a dashboard to be shared with IronHack Payments department for their selfservice insights analysis
+
 ### Deliverables
 
 1. **Python Code:** Provide well-documented Python code that conducts the cohort analysis, including data loading, preprocessing, cohort creation, metric calculation, and visualization.
-2. **Exploratory Data Analysis Report:** Prepare a report summarizing the findings from your exploratory data analysis. Include visualizations and insights that help understand the dataset.
-3. **Data Quality Analysis Report:** Document the results of your data quality analysis, highlighting any issues and the steps taken to resolve them.
-4. **Short Presentation:** Create a concise presentation (maximum of 4 slides) summarizing your findings from the cohort analysis and key insights gained from EDA and data quality analysis. This presentation should be suitable for sharing with the IronHack Payments team.
+2. **Tableau Dashboard:** Publish a dashboard in Tableau Public regarding your analysis.
+3. **Exploratory Data Analysis Report:** Prepare a report summarizing the findings from your exploratory data analysis. Include visualizations and insights that help understand the dataset.
+4. **Data Quality Analysis Report:** Document the results of your data quality analysis, highlighting any issues and the steps taken to resolve them.
+5. **Short Presentation:** Create a concise presentation (maximum of 4 slides) summarizing your findings from the cohort analysis and key insights gained from EDA and data quality analysis. This presentation should be suitable for sharing with the IronHack Payments team.
 
 <!-- ### Additional Information
 
